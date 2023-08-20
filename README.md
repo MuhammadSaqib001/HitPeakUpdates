@@ -23,18 +23,4 @@ We welcome contributions from the open-source community to enhance and improve H
 4. Push the changes to your forked repository: `git push origin feature/your-feature-name`.
 5. Open a pull request against the `main` branch of this repository.
 
-Please ensure that your contributions align with our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidelines](CONTRIBUTING.md).
-
-## Getting Started
-
-To set up the development environment and run the website locally, follow the steps in the [Installation Guide](INSTALLATION.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For inquiries or support, you can reach out to our team at support@hitpeaks.com or visit our website at [www.hitpeakupdates.com](https://www.hitpeakupdates.com).
-
-Thank you for your interest in HitPeakUpdates.com! We appreciate your contributions and look forward to collaborating with you.
+Please ensure that your contributions align with our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contributing Guidelines](CONTRIBUTING.md). For inquiries or support, you can reach out to our team at support@hitpeaks.com or visit our website at [www.hitpeakupdates.com](https://www.hitpeakupdates.com).
